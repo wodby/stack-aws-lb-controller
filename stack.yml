@@ -1,0 +1,8 @@
+name: aws-lb-controller
+title: AWS Load Balancer controller
+icon: aws-lb-controller
+services:
+- name: aws-lb-controller
+  title: AWS Load Balancer controller
+  service: aws-lb-controller
+  required: true
