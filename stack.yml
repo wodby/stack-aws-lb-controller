@@ -1,6 +1,7 @@
 name: aws-lb-controller
 title: AWS Load Balancer controller
 icon: aws-lb-controller
+docs: https://wodby.com/docs/2.0/stacks/catalog/system/
 services:
 - name: aws-lb-controller
   title: AWS Load Balancer controller
